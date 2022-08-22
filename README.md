@@ -1,0 +1,2 @@
+# scrapbox_slack
+Slackで特定のスタンプが押された投稿をspreadsheetにscrapboxのページリンクとして記録するgoogle apps scriptのコードです。
